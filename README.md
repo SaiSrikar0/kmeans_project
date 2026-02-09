@@ -2,6 +2,10 @@
 
 This Streamlit app predicts customer clusters and visualizes cluster distributions using a trained model and precomputed clustered CSV files.
 
+[![Live App Screenshot](screenshot.png)](https://kmeans-project.streamlit.app/)
+
+Live demo: https://kmeans-project.streamlit.app/
+
 ## Prerequisites
 - Python 3.8+ (Windows)
 - Git (optional)
